@@ -25,7 +25,7 @@ SECRET_KEY = '^rzsypnd6$f3dog^ys3=rjyckkqh5a2q5gc=j$y-uy&1l7fv^v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["omoshiroki.pythonanywhere.com"]
+ALLOWED_HOSTS = [ '127.0.0.1' ,"omoshiroki.pythonanywhere.com"]
 
 
 # Application definition
